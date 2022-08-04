@@ -1,0 +1,8 @@
+/common/src/main/resources/epub2pdf.properties
+/server/src/main/resources/application.properties
+/server/src/main/resources/batch.properties
+/server/src/main/resources/database.properties
+/website/src/main/resources/application.properties
+/website/src/main/resources/database.properties
+target
+/.idea/workspace.xml
